@@ -1,6 +1,6 @@
 ### Hi there, I'm Gastón 👋
 
-I'm a Computer Engineer from Uruguay.
+I'm a Computer Engineer from Uruguay
 
 I lived and worked in Ireland 🍀 and France 🥖 for the past years. Now I'm back in Uruguay :)
 
