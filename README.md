@@ -1,3 +1,5 @@
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notsag-dev&theme=tokyonight" alt="mystreak"/>
+
 ### Hi there, I'm Gastón 👋
 
 I'm a software engineer with more than a decade of experience. I've been doing back-end development in Node.js for a while in diverse areas including fintech, gaming, and blockchain, as well as experimenting with many other technologies.
@@ -24,4 +26,4 @@ NFCogos:
 - Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
 
 ---
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=notsag-dev&theme=tokyonight" alt="mystreak"/>
+
