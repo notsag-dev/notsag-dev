@@ -24,4 +24,4 @@ NFCogos:
 - Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
 
 ---
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=notsag-dev&count_private=true&show_icons=true&hide=contribs)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=notsag-dev&theme=tokyonight" alt="mystreak"/>
