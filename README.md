@@ -11,7 +11,9 @@ Soy un desarrollador de software con más de una década de experiencia. He esta
 Actualmente estoy desarrollando un sistema de trazabilidad de cannabis: [nfcogos.com](https://www.nfcogos.com)
 
 ---
+
 Personal:
+- LinkedIn: [Gastón Giménez](https://www.linkedin.com/in/gaston-gimenez-medina/)
 - Twitter: [@notsag_dev](https://www.twitter.com/notsag_dev)
 - Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
 
@@ -20,3 +22,6 @@ NFCogos:
 - Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
 - Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
 - Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
+
+---
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=notsag-dev&count_private=true&show_icons=true&hide=contribs)
