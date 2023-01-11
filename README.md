@@ -11,8 +11,12 @@ Soy un desarrollador de software con más de una década de experiencia. He esta
 Actualmente estoy desarrollando un sistema de trazabilidad de cannabis: [nfcogos.com](https://www.nfcogos.com)
 
 ---
+Personal:
+- Twitter: [@notsag_dev](https://www.twitter.com/notsag_dev)
+- Instagram: [@notsag-dev](https://www.instagram.com/notsag_dev)
 
 NFCogos:
+- Website: [www.nfcogos.com](nfcogos.com)
 - Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
 - Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
 - Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
