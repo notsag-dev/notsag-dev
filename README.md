@@ -20,7 +20,7 @@ Actualmente estoy desarrollando un sistema de trazabilidad de cannabis: [nfcogos
 - Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
 
 🌱 NFCogos:
-- Website: [www.nfcogos.com](nfcogos.com)
+- Website: [www.nfcogos.com](https://www.nfcogos.com)
 - Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
 - Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
 - Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
