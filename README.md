@@ -8,7 +8,7 @@ I'm currently building a cannabis traceability system: [nfcogos.com](https://www
 
 Soy un desarrollador de software con más de una década de experiencia. He estado haciendo desarrollo de backend en Node.js por varios años en diversas áreas incluyendo fintech, gaming y blockchain, además de haber estado experimentando con muchas otras tecnologías.
 
-Actualmente estoy desarrollando un sistema de trazabilidad de cannabis: [nfcogos.com](https://www.nfcogos.com)
+Actualmente estoy desarrollando una red social cannábica: [map.nfcogos.com](https://map.nfcogos.com)
 
 ---
 
@@ -20,6 +20,7 @@ Actualmente estoy desarrollando un sistema de trazabilidad de cannabis: [nfcogos
 - Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
 
 🌱 NFCogos:
+- Social network: [map.nfcogos.com](https://map.nfcogos.com)
 - Website: [www.nfcogos.com](https://www.nfcogos.com)
 - Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
 - Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
