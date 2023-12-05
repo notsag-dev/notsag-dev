@@ -20,7 +20,7 @@ Actualmente estoy desarrollando una red social cannábica: [Cogoland](https://ww
 - Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
 
 🌱 NFCogos:
-- Social network: [map.nfcogos.com](https://map.nfcogos.com)
+- Social network: [www.cogoland.com](https://www.cogoland.com)
 - Website: [www.nfcogos.com](https://www.nfcogos.com)
 - Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
 - Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
