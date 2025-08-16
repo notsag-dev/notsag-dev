@@ -2,7 +2,7 @@
 
 I'm a software engineer with more than a decade of experience. I've been doing back-end development in Node.js for a while in diverse areas including fintech, gaming, and blockchain, as well as experimenting with many other technologies.
 
-I'm currently building a cannabis social network: [Cogoland](https://www.cogoland.com)
+I'm currently building a cannabis social app: [Cogoland](https://www.cogoland.com)
 
 ---
 
@@ -16,15 +16,9 @@ Actualmente estoy desarrollando una red social cannábica: [Cogoland](https://ww
 
 🪪 Personal:
 - LinkedIn: [Gastón Giménez](https://www.linkedin.com/in/gaston-gimenez-medina/)
-- Twitter: [@notsag_dev](https://www.twitter.com/notsag_dev)
 - Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
 
-🌱 NFCogos:
-- Social network: [www.cogoland.com](https://www.cogoland.com)
-- Website: [www.nfcogos.com](https://www.nfcogos.com)
-- Twitter: [@nfcogos](https://www.twitter.com/nfcogos)
-- Instagram: [@nfcogos](https://www.instagram.com/nfcogos)
-- Facebook: [NFCogos](https://www.facebook.com/profile.php?id=100088843527809)
+🌱 Cogoland: [www.cogoland.com](https://www.cogoland.com)
 
 ---
 ### Stats
