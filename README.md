@@ -6,19 +6,9 @@ I'm currently building a cannabis social app: [Cogoland](https://www.cogoland.co
 
 ---
 
-Soy un desarrollador de software con más de una década de experiencia. He estado haciendo desarrollo de backend en Node.js por varios años en diversas áreas incluyendo fintech, gaming y blockchain, además de haber estado experimentando con muchas otras tecnologías.
-
-Actualmente estoy desarrollando una red social cannábica: [Cogoland](https://www.cogoland.com)
-
----
-
 ### Social media
-
-🪪 Personal:
-- LinkedIn: [Gastón Giménez](https://www.linkedin.com/in/gaston-gimenez-medina/)
-- Instagram: [@notsag_dev](https://www.instagram.com/notsag_dev)
-
-🌱 Cogoland: [www.cogoland.com](https://www.cogoland.com)
+- [LinkedIn](https://www.linkedin.com/in/gaston-gimenez-medina/)
+- [Instagram](https://www.instagram.com/notsag_dev)
 
 ---
 ### Stats
